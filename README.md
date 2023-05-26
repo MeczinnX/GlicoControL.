@@ -1,2 +1,0 @@
-# GlicoControL.
-GlicoControl
